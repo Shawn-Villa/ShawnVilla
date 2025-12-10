@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **Software Development and System Analysis**
+- 💬 Ask me about **Software Development**
 
 - 📫 How to reach me **Shawnrovicvilla@gmail.com**
 
